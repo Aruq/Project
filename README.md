@@ -1,5 +1,8 @@
 # Project
 This project was made for the Distributed Computing class. Final Project is made using the MPI library. Helps calculate the perfect pi with the Taylor series formula
+## Team members:
+- Aruzhan Kordasheva ID: 190103062
+- Aziza Karzhaubayeva ID: 190103166
 # Project title: Calculating PI number
 Calculating approximate value of pi number using parallel computing techniques with mpi library.
 # Testing environment:
